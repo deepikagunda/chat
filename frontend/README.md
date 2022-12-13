@@ -2,10 +2,10 @@
 
 ## How to run this.
 ### Run the backend.
-cd backend
-node server.js 
+  cd backend  
+  node server.js  
 ### Run the frontend
-cd frontend
-npm start
+  cd frontend  
+  npm start  
 
 
